@@ -1,3 +1,15 @@
 body {
 	background-color: #F64060;
 }
+div {
+	background-color: green;
+}
+div * {
+	background-color: yellow;
+}
+div span {
+	background-color: blue;
+}
+.red {
+	background-color: white;
+}
